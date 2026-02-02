@@ -3,7 +3,7 @@
 ## Setup rápido
 ```bash
 # 1. Clone
-git clone https://github.com/seu-user/infra-aws.git
+git clone https://github.com/gquadros-dev/terraform-infra-learning.git
 cd infra-aws
 
 # 2. Configure variáveis
