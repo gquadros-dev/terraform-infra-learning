@@ -1,0 +1,16 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Secrets
+terraform.tfvars
+*.auto.tfvars
+secrets.tf
+
+# SSH keys
+*.pem
+*.key
+
+guia.md
