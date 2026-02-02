@@ -1,0 +1,3 @@
+db_username = "postgres"
+db_password = "SENHA_MUITO_MUITO_FORTE"
+meu_ip      = "SEU_IP_AQUI"
